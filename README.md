@@ -11,5 +11,5 @@
   
   <b>Python</b>
   
-  - [-Package Delivery Application (Datastructures and Algorithms Demo)]
+ 
 
