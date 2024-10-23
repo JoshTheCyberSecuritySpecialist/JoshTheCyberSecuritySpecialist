@@ -1,17 +1,19 @@
-<h1>Hi, I'm Josh! >Programmer</a>, Cybersecurity Professional</a>.
+# Hi, I'm Josh! 👋 Programmer & Cybersecurity Professional
 
-<h2>👨‍💻 Software Development Projects:</h2>
+## 👨‍💻 Software Development Projects:
 
-- <b>PowerShell</b>
+### ⚡ PowerShell Projects
+- [Windows-EventLog-Failed-RDP-Logins-Source-IP](https://github.com/hashking15/-Windows-EventLog-Failed-RDP-Logins-Source-IP-to-full-GeoData-Conversion)  
+- [JWipe (Disk Wiping Utility)](https://github.com/JoshTheCyberSecuritySpecialist/JWipe---Disk-Sanitization)  
+- [Active Directory Bulk User Creation](https://github.com/JoshTheCyberSecuritySpecialist/Active-Directory-Bulk-User-Creation)  
+- [FIM (File Integrity Monitor)](https://github.com/JoshTheCyberSecuritySpecialist/powershell-integrity-FIM/tree/main)  
 
-  -  [Windows-EventLog-Failed-RDP-Logins-Source-IP](https://github.com/hashking15/-Windows-EventLog-Failed-RDP-Logins-Source-IP-to-full-GeoData-Conversion)
-  - [JWipe (Disk Wiping Utility)](https://github.com/JoshTheCyberSecuritySpecialist/JWipe---Disk-Sanitization)
-  - [Active Directory Bulk User Creation](https://github.com/JoshTheCyberSecuritySpecialist/Active-Directory-Bulk-User-Creation)
-  - [FIM (File Integrity Monitor)](https://github.com/JoshTheCyberSecuritySpecialist/powershell-integrity-FIM/tree/main)
-  
- - <b>Python</b>
-- [Nessus Vulnerability Scanner](https://github.com/JoshTheCyberSecuritySpecialist/nessus-scanner)
-  
-- [Cross-Chain Arbitrage Bot](https://github.com/JoshTheCyberSecuritySpecialist/cross-chain-arbitrage)
- 
+---
 
+### 🛡️ Security Python Projects
+- [Nessus Vulnerability Scanner](https://github.com/JoshTheCyberSecuritySpecialist/nessus-scanner)  
+
+---
+
+### 💰 Crypto Python Projects
+- [Cross-Chain Arbitrage Bot](https://github.com/JoshTheCyberSecuritySpecialist/cross-chain-arbitrage)  
