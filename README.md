@@ -13,6 +13,8 @@
 ### 🛡️ Security Python Projects
 - [Nessus Vulnerability Scanner](https://github.com/JoshTheCyberSecuritySpecialist/nessus-scanner)  
 
+- [PAM/PIV Smart Card Login Manager](https://github.com/JoshTheCyberSecuritySpecialist/pam-piv-login-manager)
+
 ---
 
 ### 💰 Crypto Python Projects
