@@ -12,5 +12,6 @@
  - <b>Python</b>
 - [Nessus Vulnerability Scanner](https://github.com/JoshTheCyberSecuritySpecialist/nessus-scanner)
   
+- [Cross-Chain Arbitrage Bot](https://github.com/JoshTheCyberSecuritySpecialist/cross-chain-arbitrage)
  
 
