@@ -10,6 +10,7 @@
   - [FIM (File Integrity Monitor)](https://github.com/JoshTheCyberSecuritySpecialist/powershell-integrity-FIM/tree/main)
   
  - <b>Python</b>
+- [Nessus Vulnerability Scanner](https://github.com/JoshTheCyberSecuritySpecialist/nessus-scanner)
   
  
 
