@@ -19,3 +19,9 @@
 
 ### 💰 Crypto Python Projects
 - [Cross-Chain Arbitrage Bot](https://github.com/JoshTheCyberSecuritySpecialist/cross-chain-arbitrage)  
+
+- [Simple Pay Rent Payment App](https://github.com/JoshTheCyberSecuritySpecialist/simple-pay-pwa)
+  - A Flask-based web app for tenants to pay rent with **USDC**, featuring:
+    - **User Authentication**
+    - **Rent Reminders**
+    - **Stripe Payments Integration**
