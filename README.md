@@ -19,6 +19,9 @@ Welcome to my GitHub profile! I'm Joshua Bruner, a cybersecurity specialist base
 
 - **[Simple-Pay-PWA](https://github.com/JoshTheCyberSecuritySpecialist/simple-pay-pwa)**: A Progressive Web Application designed to simplify rent payments, featuring rent reminders and secure user authentication.
 
+- **[NextWave](https://github.com/JoshTheCyberSecuritySpecialist/NextWave)**: A cutting-edge project showcasing [brief description, e.g., your focus or goal]. Designed using [technologies, e.g., Python, JavaScript] to [purpose, e.g., solve a problem or implement a feature].
+
+
 ## 📈 GitHub Stats
 
 ![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshTheCyberSecuritySpecialist&show_icons=true&theme=radical)
