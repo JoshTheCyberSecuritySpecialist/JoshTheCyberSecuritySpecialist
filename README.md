@@ -21,6 +21,13 @@ Welcome to my GitHub profile! I'm Joshua Bruner, a cybersecurity specialist base
 
 - **[NextWave](https://github.com/JoshTheCyberSecuritySpecialist/NextWave)**: A dynamic, video-sharing platform inspired by TikTok. NextWave empowers users to create, upload, and share engaging short-form videos with a focus on seamless performance and user-friendly design. Built with modern technologies like **React**, **Node.js**, and **MongoDB**, it features an intuitive interface, robust video processing, and real-time interactions to foster a vibrant community.
 
+- ### 🏥 [Hospital SOAP API](https://github.com/JoshTheCyberSecuritySpecialist/hospital-soap-api)
+A SOAP-based web service for managing doctor appointments, built with Python and Spyne.  
+Use it to learn or demonstrate SOAP usage in healthcare systems.
+
+📄 [Read the Code](https://github.com/JoshTheCyberSecuritySpecialist/hospital-soap-api/blob/main/app.py)
+
+
 
 ## 📈 GitHub Stats
 
