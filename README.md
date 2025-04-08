@@ -27,6 +27,34 @@ Use it to learn or demonstrate SOAP usage in healthcare systems.
 
 📄 [Read the Code](https://github.com/JoshTheCyberSecuritySpecialist/hospital-soap-api/blob/main/app.py)
 
+## 🚀 Notable Projects
+
+- [**Enterprise Ops Toolkit**](https://github.com/JoshTheCyberSecuritySpecialist/enterprise-ops-toolkit)  
+  🧑‍💻 Simulates full onboarding across Microsoft 365, VMware, Jamf (macOS), and Cisco CME — complete with CLI automation and audit logging.
+
+- [**Enterprise M365 + Jamf Compliance Toolkit**](https://github.com/JoshTheCyberSecuritySpecialist/enterprise-m365-jamf-compliance-toolkit)  
+  ✅ CLI tool to audit user/device compliance across Microsoft 365 and Jamf Pro. Simulates license/MFA/FileVault checks with reporting.
+
+- [**Employee Onboarding CLI**](https://github.com/JoshTheCyberSecuritySpecialist/onboarding-toolkit)  
+  👩‍💼 Lightweight CLI automation to simulate account setup, Teams access, macOS enrollment, and Cisco extension assignment.
+
+- [**Offboarding Automation Toolkit**](https://github.com/JoshTheCyberSecuritySpecialist/offboarding-toolkit)  
+  🛑 Simulates secure offboarding: disables M365, revokes tokens, wipes device (Jamf), and logs all actions in a CSV report.
+
+- [**Simple-Pay-PWA**](https://github.com/JoshTheCyberSecuritySpecialist/simple-pay-pwa)  
+  💸 Progressive Web App for rent payments. Features user auth, reminders, and secure transactions.
+
+- [**Linux-Troubleshooting-Checklist**](https://github.com/JoshTheCyberSecuritySpecialist/Linux-Troubleshooting-Checklist)  
+  🧰 Step-by-step Linux troubleshooting guide covering boot errors, network, file permissions, and logs.
+
+- [**Security-Testing-Lab**](https://github.com/JoshTheCyberSecuritySpecialist/Security-Testing-Lab)  
+  🔐 Penetration testing lab for OWASP Juice Shop. Walkthroughs for common vulnerabilities and payloads.
+
+
+
+
+
+
 
 
 ## 📈 GitHub Stats
