@@ -11,19 +11,6 @@ Welcome to my GitHub profile! I'm Joshua Bruner, a cybersecurity specialist base
 - **Tools**: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 - **Databases**: ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
-## 🛠️ Notable Projects
-
-- **[Security-Testing-Lab](https://github.com/JoshTheCyberSecuritySpecialist/Security-Testing-Lab)**: A repository containing security testing and penetration testing exercises, including analysis of vulnerabilities in OWASP Juice Shop.
-
-- **[Linux-Troubleshooting-Checklist](https://github.com/JoshTheCyberSecuritySpecialist/Linux-Troubleshooting-Checklist)**: A comprehensive step-by-step checklist for diagnosing and resolving common Linux issues.
-
-- **[Simple-Pay-PWA](https://github.com/JoshTheCyberSecuritySpecialist/simple-pay-pwa)**: A Progressive Web Application designed to simplify rent payments, featuring rent reminders and secure user authentication.
-
-- **[NextWave](https://github.com/JoshTheCyberSecuritySpecialist/NextWave)**: A dynamic, video-sharing platform inspired by TikTok. NextWave empowers users to create, upload, and share engaging short-form videos with a focus on seamless performance and user-friendly design. Built with modern technologies like **React**, **Node.js**, and **MongoDB**, it features an intuitive interface, robust video processing, and real-time interactions to foster a vibrant community.
-
-- ### 🏥 [Hospital SOAP API](https://github.com/JoshTheCyberSecuritySpecialist/hospital-soap-api)
-A SOAP-based web service for managing doctor appointments, built with Python and Spyne.  
-Use it to learn or demonstrate SOAP usage in healthcare systems.
 
 📄 [Read the Code](https://github.com/JoshTheCyberSecuritySpecialist/hospital-soap-api/blob/main/app.py)
 
