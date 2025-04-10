@@ -16,6 +16,9 @@ Welcome to my GitHub profile! I'm Joshua Bruner, a cybersecurity specialist base
 
 ## 🚀 Notable Projects
 
+- ![M365 Security Automation Suite](./assets/banner.png)
+
+
 - [**Enterprise Ops Toolkit**](https://github.com/JoshTheCyberSecuritySpecialist/enterprise-ops-toolkit)  
   🧑‍💻 Simulates full onboarding across Microsoft 365, VMware, Jamf (macOS), and Cisco CME — complete with CLI automation and audit logging.
 
