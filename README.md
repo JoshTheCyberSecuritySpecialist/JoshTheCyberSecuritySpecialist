@@ -53,7 +53,7 @@ Welcome to my GitHub profile! I'm Joshua Bruner, a cybersecurity specialist base
 
 ## 📫 Contact Me
 
-- **Email**: [joshua.bruner@example.com](mailto:joshua.bruner@example.com)
+- **Email**: [josh.bruner15@yahoo.com](mailto:joshua.bruner@example.com)
 - **LinkedIn**: [linkedin.com/in/joshua-bruner](https://www.linkedin.com/in/joshua-bruner)
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or have any questions!
